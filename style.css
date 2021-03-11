@@ -1,0 +1,63 @@
+body {
+    background-color: royalblue;
+}
+
+h1 {
+    color: yellow;
+    margin: 30px;
+    text-decoration: underline;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+}
+
+#para_1 {
+    width: 49%;
+    margin: 10px;
+}
+
+#para_2 {
+    width: 49%;
+    float: right;
+}
+
+input {
+    background-color:cyan;
+    height: 50px;
+    width: 350px;
+    color: red;
+    font-size: 21px;
+    font-family: monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+
+span {
+    font-size: 21px;
+    color: purple;
+    font-family: monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+
+button {
+    margin: 30px;
+    margin-left: 80px;
+    height: 50px;
+    width: 250px;
+    font-size: 21px;
+    background-color: yellow;
+    font-weight: bold;
+    font-style: italic;
+    font-family: monospace;
+    border-width: 10px;
+    border-color: green;
+    color: red;
+}
+
+#show_para_1 , #show_para_2 {
+    color: orange;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: monospace;
+}
